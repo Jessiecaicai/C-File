@@ -1,0 +1,7 @@
+D:\C#Document\functionAndDraw\functionAndDraw\bin\Debug\functionAndDraw.exe.config
+D:\C#Document\functionAndDraw\functionAndDraw\bin\Debug\functionAndDraw.exe
+D:\C#Document\functionAndDraw\functionAndDraw\bin\Debug\functionAndDraw.pdb
+D:\C#Document\functionAndDraw\functionAndDraw\obj\Debug\functionAndDraw.csprojResolveAssemblyReference.cache
+D:\C#Document\functionAndDraw\functionAndDraw\obj\Debug\functionAndDraw.csproj.CoreCompileInputs.cache
+D:\C#Document\functionAndDraw\functionAndDraw\obj\Debug\functionAndDraw.exe
+D:\C#Document\functionAndDraw\functionAndDraw\obj\Debug\functionAndDraw.pdb

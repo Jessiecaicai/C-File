@@ -1,0 +1,7 @@
+D:\C#Document\ArrayTest\ArrayTest\bin\Debug\ArrayTest.exe.config
+D:\C#Document\ArrayTest\ArrayTest\bin\Debug\ArrayTest.exe
+D:\C#Document\ArrayTest\ArrayTest\bin\Debug\ArrayTest.pdb
+D:\C#Document\ArrayTest\ArrayTest\obj\Debug\ArrayTest.csprojResolveAssemblyReference.cache
+D:\C#Document\ArrayTest\ArrayTest\obj\Debug\ArrayTest.csproj.CoreCompileInputs.cache
+D:\C#Document\ArrayTest\ArrayTest\obj\Debug\ArrayTest.exe
+D:\C#Document\ArrayTest\ArrayTest\obj\Debug\ArrayTest.pdb

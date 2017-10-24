@@ -1,0 +1,6 @@
+D:\C#Document\FileSave\FileSave\bin\Debug\FileSave.exe.config
+D:\C#Document\FileSave\FileSave\bin\Debug\FileSave.exe
+D:\C#Document\FileSave\FileSave\bin\Debug\FileSave.pdb
+D:\C#Document\FileSave\FileSave\obj\Debug\FileSave.csproj.CoreCompileInputs.cache
+D:\C#Document\FileSave\FileSave\obj\Debug\FileSave.exe
+D:\C#Document\FileSave\FileSave\obj\Debug\FileSave.pdb
