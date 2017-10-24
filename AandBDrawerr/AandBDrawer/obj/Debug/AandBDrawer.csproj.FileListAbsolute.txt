@@ -1,0 +1,7 @@
+D:\C#Document\AandBDrawer\AandBDrawer\bin\Debug\AandBDrawer.exe.config
+D:\C#Document\AandBDrawer\AandBDrawer\bin\Debug\AandBDrawer.exe
+D:\C#Document\AandBDrawer\AandBDrawer\bin\Debug\AandBDrawer.pdb
+D:\C#Document\AandBDrawer\AandBDrawer\obj\Debug\AandBDrawer.csprojResolveAssemblyReference.cache
+D:\C#Document\AandBDrawer\AandBDrawer\obj\Debug\AandBDrawer.csproj.CoreCompileInputs.cache
+D:\C#Document\AandBDrawer\AandBDrawer\obj\Debug\AandBDrawer.exe
+D:\C#Document\AandBDrawer\AandBDrawer\obj\Debug\AandBDrawer.pdb
